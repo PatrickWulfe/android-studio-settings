@@ -3,7 +3,7 @@
     <property name="created">2019-02-07T21:11:20</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2018.3.2.0.0</property>
-    <property name="modified">2021-06-10T10:00:31</property>
+    <property name="modified">2023-09-22T11:24:50</property>
     <property name="originalScheme">Horizon</property>
   </metaInfo>
   <colors>
@@ -24,8 +24,10 @@
     <option name="INFORMATION_HINT" value="232530" />
     <option name="LINE_NUMBERS_COLOR" value="3a3b44" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="7a7c82" />
+    <option name="MATCHED_BRACES_INDENT_GUIDE_COLOR" value="" />
     <option name="MODIFIED_LINES_COLOR" value="26bbd9" />
     <option name="QUESTION_HINT" value="6c6f93" />
+    <option name="SELECTED_INDENT_GUIDE" value="6c6f93" />
     <option name="SELECTION_BACKGROUND" value="2e303e" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="1c1e26" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="232530" />
@@ -219,7 +221,7 @@
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="27d796" />
+        <option name="FOREGROUND" value="d9436f" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -265,7 +267,8 @@
     </option>
     <option name="DEFAULT_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="fdf0ed" />
+        <option name="FOREGROUND" value="e9436f" />
+        <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -299,7 +302,7 @@
     <option name="DEFAULT_STATIC_FIELD" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="e95379" />
+        <option name="FOREGROUND" value="9f7a0" />
       </value>
     </option>
     <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
@@ -531,7 +534,8 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="3b514d" />
+        <option name="FOREGROUND" value="1c1e26" />
+        <option name="BACKGROUND" value="b877db" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
