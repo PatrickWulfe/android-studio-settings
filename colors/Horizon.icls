@@ -3,7 +3,7 @@
     <property name="created">2019-02-07T21:11:20</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2018.3.2.0.0</property>
-    <property name="modified">2023-09-22T11:24:50</property>
+    <property name="modified">2023-09-29T13:06:54</property>
     <property name="originalScheme">Horizon</property>
   </metaInfo>
   <colors>
@@ -279,7 +279,7 @@
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL">
       <value>
-        <option name="FOREGROUND" value="f09483" />
+        <option name="FOREGROUND" value="25b2bc" />
       </value>
     </option>
     <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE">
@@ -300,6 +300,12 @@
       </value>
     </option>
     <option name="DEFAULT_STATIC_FIELD" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="DEFAULT_STATIC_METHOD">
+      <value>
+        <option name="FOREGROUND" value="25b2bc" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="DEFAULT_STRING">
       <value>
         <option name="FOREGROUND" value="9f7a0" />
